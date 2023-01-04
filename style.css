@@ -1,0 +1,105 @@
+h1
+{
+    color: #DAD8D8;
+    background-color: #F48EA0;
+}
+
+h2
+{
+    color: #EB75F2;
+    background-color: #DAD8D8;
+}
+
+.main-text
+{
+    background-color: #EF66B3;
+}
+
+#subtopic
+{
+    color: black;
+    background-color: #E9EE4C;
+}
+
+#subtopic:hover
+{
+    color: cyan;   
+}
+
+.main-header-img,
+.contact-header-img
+{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.treats
+{
+    height: 100px;
+    width: 125px;
+    border: 6px solid;
+    border-radius: 50%;
+}
+
+.lollipop
+{
+    border-color: #E9EE4C;
+    float: left;
+}
+
+.candy-floss
+{
+    border-color: #47D7F0;
+    float: right;
+}
+
+.jellybeans
+{
+    border-color: #EF66B3;
+    float: left;
+}
+
+ul
+{
+    background-color: #1ed7f0;
+    list-style: none;
+}
+
+ul:hover
+{
+    background-color: #E9EE4C;   
+}
+
+.partners:active
+{
+    background-color: #ff69b4;
+    color: #efefef;
+}
+
+h4
+{
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+#link-to-contact a:visited
+{
+    color: #49D7F0;
+    text-decoration: none;
+}
+
+#contact-infos
+{
+    list-style-type: circle;
+}
+
+#contact-infos:hover
+{
+    background-color: #f58ea0;
+}
+
+#back-to-main a:visited
+{
+    color: #ec10bd;
+}
